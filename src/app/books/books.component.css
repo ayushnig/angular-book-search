@@ -1,0 +1,30 @@
+#example-form {
+  width: 50%;
+  height: 50px;
+
+
+  padding-left: 5%;
+}
+
+button{
+  height : 50px;
+  width : 80px;
+  font-size: 13px;
+  background : #000;
+}
+
+
+.example-card {
+  max-width: 400px;
+  padding: 20px;
+}
+.main-div{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.example-full-width {
+  width: 50%;
+  padding: 20px;
+}
