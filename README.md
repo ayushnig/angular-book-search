@@ -1,1 +1,1 @@
-# Front-end with Angular
+# Book finder with look ahead search
